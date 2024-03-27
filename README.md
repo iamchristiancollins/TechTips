@@ -17,3 +17,5 @@ We welcome contributions from everyone! Please check our [Contribution Guideline
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+*Contributed by: Christian Collins*
