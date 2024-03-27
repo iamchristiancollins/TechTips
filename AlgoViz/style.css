@@ -1,0 +1,10 @@
+#array-container {
+    display: flex;
+    align-items: flex-end;
+    gap: 2px;
+}
+
+.array-bar {
+    background-color: dodgerblue;
+    width: 20px;
+}
